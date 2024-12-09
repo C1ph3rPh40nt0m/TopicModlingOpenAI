@@ -1,0 +1,9 @@
+cluster/*.csv
+data/main/*.csv
+old
+Preprocessing
+Progress
+vectors
+*.md
+*.csv
+.venv
